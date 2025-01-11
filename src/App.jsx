@@ -1,5 +1,11 @@
+import CartPage from "./components/cartPage";
+
 const App = () => {
-  return <div>App</div>;
+  return (
+    <div>
+      <CartPage/>
+    </div>
+  );
 };
 
 export default App;
