@@ -1,5 +1,11 @@
+import ProductDetailPage from "./Pages/ProductDetailPage";
+
 const App = () => {
-  return <div>App</div>;
+  return (
+    <div>
+      <ProductDetailPage />
+    </div>
+  );
 };
 
 export default App;
