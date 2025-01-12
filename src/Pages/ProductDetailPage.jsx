@@ -112,7 +112,7 @@ const ProductDetailPage = () => {
               <p className=" text-gray-500">
                 This is a gentle acne patch made with natural ingredients that
                 contain essential ingredients for your skin to recover and clear
-                up acne. It's safe for everyone, including pregnant women and
+                up acne. It`s safe for everyone, including pregnant women and
                 people with sensitive skin. This product is made with organic
                 ingredients and certified fair trade.
               </p>
