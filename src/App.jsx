@@ -1,3 +1,4 @@
+import Account from "./Pages/Account";
 import BrandPages from "./Pages/BrandPages";
 import CartPage from "./Pages/CartPage";
 import ProductDetailPage from "./Pages/ProductDetailPage";
@@ -7,7 +8,8 @@ const App = () => {
     <div>
       {/* <ProductDetailPage />
       <CartPage /> */}
-      <BrandPages />
+      {/* <BrandPages /> */}
+      <Account/>
     </div>
   );
 };
