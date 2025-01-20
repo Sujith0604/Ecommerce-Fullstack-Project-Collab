@@ -65,7 +65,7 @@ const AccountRecentOrders = () => {
 
                 <div className="flex py-8 justify-between gap-4">
                   <div>
-                    <img src="/public/images/Annalia Beauty.webp" alt="" className="w-[100px]" />
+                    <img src="/images/Annalia Beauty.webp" alt="" className="w-[100px]" />
                   </div>
                   <div>
                     <h6>7-Day Skin Renewal Bakuchiol Trial Kit</h6>
